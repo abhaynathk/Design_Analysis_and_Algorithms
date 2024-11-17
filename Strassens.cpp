@@ -1,6 +1,5 @@
 
-//Register No: 24MAI0114
-//Name: ABHAYNATH K
+
 #include<bits/stdc++.h>
 using namespace std;
 int** initialize(int n) {
@@ -68,8 +67,7 @@ for (int i = 0; i < k; i++)
       }
 int main()
 { int n;
-cout << "Reg No: 24MAI0114\n";
-cout << "Name: ABHAYNATH K\n";
+
 cout << "Enter the size of the matrices (n x n): ";
 cin >> n;
 int **A = initialize(n);
