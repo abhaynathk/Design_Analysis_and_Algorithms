@@ -10,7 +10,7 @@ struct Candidate {
 };
 
 int main() {
-    cout<<"24MAI0114     ABHAYNATH K\n";
+    
     int n, no_of_hires = 0;
     cout << "Enter the number of candidates:\n";
     cin >> n;
